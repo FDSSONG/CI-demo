@@ -1,4 +1,6 @@
-package org.example;
+package main.java.org.example;
+
+import org.junit.Test;
 
 public class Main {
 
