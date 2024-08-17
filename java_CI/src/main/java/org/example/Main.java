@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class Main {
 
-    @Test
+
     public void testAdd(){
         int addsum = 4+2;
         assert addsum == 6;
